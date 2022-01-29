@@ -4,24 +4,24 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Intro to Computer Systems
 
-- Course 3
+- Discrete Math
 
-- Course 4
+- Database 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Manga/Anime
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Music <https://www.sabaton.net>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/1/28
